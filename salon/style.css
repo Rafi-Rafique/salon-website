@@ -1,0 +1,149 @@
+@font-face {
+    font-family: merafont;
+    src: url(fonts/YatraOne-Regular.ttf);
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+
+    background-color: rgb(3, 12, 18);
+color: rgb(114, 6, 33);
+font-family: merafont;
+font-weight: bold;
+font-size: 15px;
+}
+header{
+    font-size: 100px;
+    text-align: center;
+}
+header:hover{
+background-color: rgb(210, 31, 118);
+}
+.nav{
+    background-color: brown;
+    padding: 20px;
+}
+.nav>a{
+    font-size: 25px;
+    color: rgb(71, 45, 10);
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 60px;
+    text-align: justify;
+}
+.nav>a:hover{
+background-color: burlywood;
+}
+div>h2{
+    color: rgb(146, 16, 38);
+    font-size: 4em;
+    text-align: left;
+    width: 1200px;
+      }
+
+    div p{
+        color: rgb(146, 16, 38);
+        font-size: 2em;
+        text-align: left;
+        line-height: 150%;
+        }
+.bride{
+    padding: 40px;
+    }
+    #makeup{
+        padding: 50px;
+
+    }
+    .list{
+        text-align: center;
+        font-size: 30px;
+    }
+
+        .list ul{
+            font-size: 20px;
+        }
+        .list Li:hover{
+            background-color: burlywood;
+        }
+
+h1{
+    background-color:  rgb(210, 31, 118);
+    color:  rgb(71, 45, 10);
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+}
+h3:hover{
+    background-color: burlywood;
+}
+ul a{
+    text-decoration: none;
+    font-size: 30px;
+    color:  rgb(114, 6, 33);
+}
+.facial p{
+font-size: 20px;
+text-align: left;
+}
+#about p{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+b a{
+    color: rgb(210, 31, 118);
+    text-decoration: none;
+    font-size: 20px;
+}
+b a:hover{
+    background-color: burlywood;
+}
+
+table{
+    background-color: rgb(106, 84, 61);
+    color: color: rgb(146, 16, 38);
+    padding: 30px;
+}
+table:hover{
+    background-color: burlywood; 
+}
+#thanks
+    {
+        color: rgb(146, 16, 38);
+        font-size: 2em;
+        text-align: center;
+        line-height: 150%;
+    }
+fieldset{
+    font-size: 20px;
+    border-color: rgb(180, 7, 154);
+    border-style: dotted;
+   margin-left: 20px;
+   margin-right: 20px;
+   padding: 10px;
+}
+.curve input{
+    border-radius: 7px;
+    height: 25px;
+}
+.curve input:focus{
+    background-color: burlywood;
+}
+.img{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    padding: 1%;
+   
+}
